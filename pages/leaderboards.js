@@ -6,7 +6,7 @@ export default function leaderboards() {
     return(
         <div className={styles.standard}>
             <Navigation />
-            <h1>Leaderboards</h1>
+                <h1>Leaderboards</h1>
             <Footer />
         </div>
     )
