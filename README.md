@@ -7,8 +7,4 @@ Nothing2Play is a website where users can input their SteamID and get a random g
 On top of that, they can also view their recent game history and even filter the random game based on whether or not they've even played it or not.
 
 Frontend Stack
-- React
-- React Bootstrap
-- React Router
-
-Current State: In development
+- Next JS (React Framework)
